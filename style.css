@@ -1,0 +1,37 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg-none{
+    background-color: transparent;
+    border: none;
+}
+.bg-img{
+    background-size: cover;
+}
+
+.bg-1{
+    background-image: url(https://images.unsplash.com/photo-1634247032746-65ce2152c0a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZhbmN5JTIwc3lydXB8ZW58MHx8MHx8fDA%3D);
+    height: 140vh;
+}
+
+
+.bg-3{
+    background-image:url(https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8b2ZmaWNlfGVufDB8fDB8fHww) ;
+    aspect-ratio: 1/1;
+}
+
+.bg-2{
+    background-image:url(https://images.unsplash.com/photo-1646775814000-e2bbb1a42be3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGZhbmN5JTIwc3lydXB8ZW58MHx8MHx8fDA%3D);
+    aspect-ratio: 1/1;
+}
+
+.bg-4{
+    background-image: url(https://images.unsplash.com/photo-1543946207-39bd91e70ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW9vc2V8ZW58MHx8MHx8fDA%3D);
+    aspect-ratio: 1/1;
+}
+
+.bg-arrow{
+    background-image: url(https://www.iconsdb.com/icons/preview/white/arrow-xxl.png);
+}
